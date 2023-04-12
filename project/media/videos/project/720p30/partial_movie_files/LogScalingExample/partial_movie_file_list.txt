@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/l16cn/Git/manim-test/project/media/videos/project/720p30/partial_movie_files/LogScalingExample/274514146_834180645_3229688213.mp4'
