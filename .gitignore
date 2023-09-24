@@ -1,10 +1,8 @@
 # Manim
 *.svg
 *.tex
-*.mp4
 *.png
 *.dvi
-*.gif
 *.txt
 
 # Byte-compiled / optimized / DLL files
