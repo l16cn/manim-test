@@ -4,6 +4,8 @@
 *.png
 *.dvi
 *.txt
+partial_movie_files/
+jupyter/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
